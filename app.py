@@ -34,7 +34,7 @@ page (data)   post => send data, no get => we cant desplay this page
 
 
 django 
-
+ bihbibibui
 flask installation => fcts methods tools (hidden)
 
 django => db pages (admin) pagr(auth)  page (edit delete)  pages (forms )  fcts ...
